@@ -1,9 +1,8 @@
 .friends-container{
     display: flex;
+    background-color: #688b81;
 }
 .Flist-container{
-    width: 80%;
-    margin-left: 20px;
+    margin-left: 150px;
     margin-right: 5px;
-    border-right: 1px solid lightgray;
 }
