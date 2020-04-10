@@ -105,5 +105,5 @@ var friends = [
                 "id": "15"
             }
             
-        ];
+        ]
 export default friends;
